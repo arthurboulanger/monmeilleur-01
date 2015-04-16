@@ -1,0 +1,115 @@
+/**
+ * Plugin: Facebook Friend Inviter
+ * Author: 69signals (http://www.69signals.com)
+ */
+
+.signals-block {
+    display: block !important;
+}
+.signals-ffi-text {
+    margin-top: 6px;
+}
+.signals-strong {
+    font-weight: bold !important;
+}
+.signals-hide {
+    display: none;
+}
+.signals-ffi {
+    margin-bottom: 10px;
+}
+
+/* Button */
+
+.signals-ffi-btn {
+    padding: 4px !important;
+    border: 1px solid !important;
+    color: #fff !important;
+    background-color: #3072b3 !important;
+    border-color: #3072b3 !important;
+    border-bottom-color: #2a65a0 !important;
+    text-align: center !important;
+    font-weight: bold !important;
+    white-space: nowrap;
+    text-decoration: none;
+    cursor: pointer;
+    outline: none;
+    text-decoration: none;
+    text-shadow: -1px -1px 0 rgba(0, 0, 0, 0.3);
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#599bdc), to(#3072b3));
+    background-image: -moz-linear-gradient(#599bdc, #3072b3);
+    background-image: -o-linear-gradient(#599bdc, #3072b3);
+    background-image: linear-gradient(#599bdc, #3072b3);
+    -webkit-background-clip: padding;
+    -moz-background-clip: padding;
+    -o-background-clip: padding-box;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    zoom: 1;
+}
+.signals-ffi-btn:hover, .signals-ffi-btn:focus, .signals-ffi-btn:active {
+    opacity: 0.8;
+    text-decoration: none;
+}
+.signals-ffi-btn:active, .signals-ffi-btn.active {
+    border-color: #2a65a0 !important;
+    border-bottom-color: #3884CF !important;
+    color: #fff !important;
+    background-color: #3072b3 !important;
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#3072b3), to(#599bdc));
+    background-image: -moz-linear-gradient(#3072b3, #599bdc);
+    background-image: -o-linear-gradient(#3072b3, #599bdc);
+    background-image: linear-gradient(#3072b3, #599bdc);
+}
+
+/* Overrides extra padding on button elements in Firefox. */
+
+.signals-ffi-btn: : -moz-focus-inner {
+    padding: 0;
+    border: 0;
+}
+
+/* Header */
+
+#signals-ffi-bar {
+    position: fixed;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    background: #ff4629;
+    padding: 10px 0;
+    z-index: 9999999;
+}
+#signals-ffi-bar p {
+    width: 100%;
+    color: #fff;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+#signals-ffi-bar a {
+    color: #fff67a;
+    border-bottom: 1px dotted #fff67a;
+}
+#signals-ffi-bar a, #signals-ffi-bar a:hover {
+    text-decoration: none;
+}
+#signals-ffi-bar .signals-close-btn a {
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 10px;
+    padding: 1px 4px 1px 4px;
+    font-weight: bold;
+    background: #000;
+    color: #fff !important;
+    border-bottom: none;
+}
+#signals-ffi-bar .signals-close-btn a:hover {
+    opacity: 0.6;
+}
+.signals-ffi-bar-container {
+    width: 100%;
+    margin: 0 auto;
+}

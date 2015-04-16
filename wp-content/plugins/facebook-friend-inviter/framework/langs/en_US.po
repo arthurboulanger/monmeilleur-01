@@ -1,0 +1,312 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Facebook Friend Inviter\n"
+"POT-Creation-Date: 2014-11-21 16:07+0530\n"
+"PO-Revision-Date: 2014-11-21 16:07+0530\n"
+"Last-Translator: 69signals <ping@69signals.com>\n"
+"Language-Team: 69signals <ping@69signals.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: facebook-friend-inviter.php:52 framework/widget.php:85
+msgid "Invite Friends"
+msgstr ""
+
+#: facebook-friend-inviter.php:53
+msgid ""
+"This blog is dedicated to design, coding, jquery, entrepreneurship, and a "
+"little bit here & there to make you do stuff in a better way."
+msgstr ""
+
+#: facebook-friend-inviter.php:56
+msgid ""
+"Spread the word about the website. This won't spam your Facebook account."
+msgstr ""
+
+#: framework/admin/init.php:42 framework/widget.php:16
+msgid "Facebook Friend Inviter"
+msgstr ""
+
+#: framework/admin/init.php:43
+msgid "FB Friend Inviter"
+msgstr ""
+
+#: framework/admin/settings.php:38
+msgid "<strong>Hey!</strong> Options have been updated."
+msgstr ""
+
+#: framework/admin/settings.php:40
+msgid "<strong>Oops!</strong> Application ID cannot be left empty."
+msgstr ""
+
+#: framework/admin/settings.php:58
+msgid "Please fill in both the fields to create your support ticket."
+msgstr ""
+
+#: framework/admin/settings.php:75
+msgid "We have received your support ticket. We will get back to you shortly!"
+msgstr ""
+
+#: framework/admin/settings.php:81
+msgid ""
+"There was an error creating the support ticket. You can try again later or "
+"send us an email directly to <strong>support@69signals.com</strong>"
+msgstr ""
+
+#: framework/admin/views/settings.php:43
+msgid "SETTINGS"
+msgstr ""
+
+#: framework/admin/views/settings.php:47
+msgid "Caption"
+msgstr ""
+
+#: framework/admin/views/settings.php:48
+msgid "Provide caption text over here"
+msgstr ""
+
+#: framework/admin/views/settings.php:50
+msgid "Provide the caption you would like to display on the Invite button."
+msgstr ""
+
+#: framework/admin/views/settings.php:54
+msgid "Message"
+msgstr ""
+
+#: framework/admin/views/settings.php:55
+msgid "Message that will be shown in the Invite friends popup."
+msgstr ""
+
+#: framework/admin/views/settings.php:57
+msgid ""
+"Provide the message you would like to display in the Invite friends popup."
+msgstr ""
+
+#: framework/admin/views/settings.php:61
+msgid "App ID"
+msgstr ""
+
+#: framework/admin/views/settings.php:62
+msgid "Facebook App ID"
+msgstr ""
+
+#: framework/admin/views/settings.php:64
+msgid "ID for your Facebook application."
+msgstr ""
+
+#: framework/admin/views/settings.php:64
+msgid "Click here"
+msgstr ""
+
+#: framework/admin/views/settings.php:64
+msgid "for more information on creating and configuring Facebook app."
+msgstr ""
+
+#: framework/admin/views/settings.php:68
+msgid "Select Style"
+msgstr ""
+
+#: framework/admin/views/settings.php:70
+msgid "Button style"
+msgstr ""
+
+#: framework/admin/views/settings.php:71
+msgid "Link only"
+msgstr ""
+
+#: framework/admin/views/settings.php:74
+msgid "Select the appropriate styling for the Inviter link."
+msgstr ""
+
+#: framework/admin/views/settings.php:78
+msgid "Additional Text"
+msgstr ""
+
+#: framework/admin/views/settings.php:79
+msgid "Additional text to display"
+msgstr ""
+
+#: framework/admin/views/settings.php:81
+msgid ""
+"If you would like to display any additional text along the Inviter link, "
+"enter it over here."
+msgstr ""
+
+#: framework/admin/views/settings.php:85
+msgid "Enable Widget?"
+msgstr ""
+
+#: framework/admin/views/settings.php:87
+msgid "Enable"
+msgstr ""
+
+#: framework/admin/views/settings.php:88
+msgid "Disable"
+msgstr ""
+
+#: framework/admin/views/settings.php:91
+msgid ""
+"Select whether to enable this plugin via Widget or not. If the widget is "
+"disabled, the Inviter link will be shown via a Notification bar."
+msgstr ""
+
+#: framework/admin/views/settings.php:95
+msgid "Position for the Notification bar"
+msgstr ""
+
+#: framework/admin/views/settings.php:97
+msgid "Top"
+msgstr ""
+
+#: framework/admin/views/settings.php:98
+msgid "Bottom"
+msgstr ""
+
+#: framework/admin/views/settings.php:101
+msgid ""
+"Select the position for the Notification bar. This setting does not affect "
+"the widget."
+msgstr ""
+
+#: framework/admin/views/settings.php:105
+msgid "Cookire expiry time (in days)"
+msgstr ""
+
+#: framework/admin/views/settings.php:106
+msgid "Cookie expiry time (in days)"
+msgstr ""
+
+#: framework/admin/views/settings.php:108
+msgid ""
+"Number of days after which the header notification will show again if the "
+"user closes it. Only enter numeric value into this field. Default value is 7 "
+"days."
+msgstr ""
+
+#: framework/admin/views/settings.php:111
+msgid "DESIGN"
+msgstr ""
+
+#: framework/admin/views/settings.php:111
+msgid ""
+"Configure the design settings for the plugin. You have the option to modify "
+"every aspect of the design so that it matches the look and feel of your "
+"website."
+msgstr ""
+
+#: framework/admin/views/settings.php:114
+msgid "Notification Bar Background"
+msgstr ""
+
+#: framework/admin/views/settings.php:115
+msgid "Notification bar background color"
+msgstr ""
+
+#: framework/admin/views/settings.php:117
+msgid "Provide the background color for the notification bar."
+msgstr ""
+
+#: framework/admin/views/settings.php:121
+msgid "Text Color"
+msgstr ""
+
+#: framework/admin/views/settings.php:122
+msgid "Text color"
+msgstr ""
+
+#: framework/admin/views/settings.php:124
+msgid "Provide the Text color."
+msgstr ""
+
+#: framework/admin/views/settings.php:128
+msgid "Link Color"
+msgstr ""
+
+#: framework/admin/views/settings.php:129
+msgid "Link color"
+msgstr ""
+
+#: framework/admin/views/settings.php:131
+msgid "Provide the Link color."
+msgstr ""
+
+#: framework/admin/views/settings.php:139
+msgid "SUPPORT"
+msgstr ""
+
+#: framework/admin/views/settings.php:140
+msgid ""
+"Getting help is just a click away now. Report issue using the form below and "
+"we will get back to you at your admin email address. If the below support "
+"form is not working for you, kindly send us an email at "
+msgstr ""
+
+#: framework/admin/views/settings.php:140
+msgid " explaining the issue you are facing with the plugin."
+msgstr ""
+
+#: framework/admin/views/settings.php:146
+msgid "Email Address"
+msgstr ""
+
+#: framework/admin/views/settings.php:147
+msgid "Please provide your email address"
+msgstr ""
+
+#: framework/admin/views/settings.php:149
+msgid "You will receive support response at this email address."
+msgstr ""
+
+#: framework/admin/views/settings.php:153
+msgid "Issue / Feedback"
+msgstr ""
+
+#: framework/admin/views/settings.php:154
+#: framework/admin/views/settings.php:156
+msgid ""
+"Please explain the issue you are facing with the plugin. Provide as much "
+"detail as possible."
+msgstr ""
+
+#: framework/admin/views/settings.php:159
+msgid "Ask for Support"
+msgstr ""
+
+#: framework/admin/views/settings.php:166
+msgid "We are a creative digital agency."
+msgstr ""
+
+#: framework/admin/views/settings.php:167
+msgid ""
+"We love to weave the web, simple but amazing. We create flawless web and "
+"mobile applications. Our perfectly crafted products will make you believe us."
+msgstr ""
+
+#: framework/admin/views/settings.php:170
+msgid "Show us some love. Connect with us via Social channels."
+msgstr ""
+
+#: framework/admin/views/settings.php:187
+msgid "Save Changes"
+msgstr ""
+
+#: framework/widget.php:18
+msgid "Widget for the Facebook Friend Inviter plugin."
+msgstr ""
+
+#: framework/widget.php:93
+msgid "Title"
+msgstr ""
+
+#: framework/widget.php:97
+msgid ""
+"There is nothing more to configure over here. This widget will display the "
+"Facebook Friend Inviter with the settings configured for the plugin."
+msgstr ""

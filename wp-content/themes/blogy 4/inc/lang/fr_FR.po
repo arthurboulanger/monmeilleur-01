@@ -1,0 +1,3264 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Theme2035 Framework 1.0\n"
+"POT-Creation-Date: 2014-11-20 21:39+0200\n"
+"PO-Revision-Date: 2014-11-21 10:42+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"Language: fr\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:14
+msgid "PAGE NOT FOUND!"
+msgstr "PAGE INTROUVABLE !"
+
+#: ../author.php:5 ../index.php:45 ../page.php:9 ../search.php:46
+#: ../single.php:105
+msgid "Enter keywords"
+msgstr "Entrez des mots-clés"
+
+#: ../author.php:25 ../index.php:235 ../search.php:113 ../single.php:314
+#: ../admin/ReduxFramework/blog/blog-config.php:740
+#: ../inc/custom-widgets/social-links.php:42
+#: ../inc/post-types/content-aside.php:129
+#: ../inc/post-types/content-audio.php:210
+#: ../inc/post-types/content-chat.php:129
+#: ../inc/post-types/content-gallery.php:151
+#: ../inc/post-types/content-image.php:128
+#: ../inc/post-types/content-link.php:115
+#: ../inc/post-types/content-quote.php:120
+#: ../inc/post-types/content-status.php:130
+#: ../inc/post-types/content-video.php:136 ../inc/post-types/content.php:129
+msgid "Behance"
+msgstr ""
+
+#: ../author.php:26 ../index.php:234 ../search.php:112 ../single.php:315
+#: ../admin/ReduxFramework/blog/blog-config.php:732
+#: ../inc/custom-widgets/social-links.php:43
+#: ../inc/post-types/content-aside.php:130
+#: ../inc/post-types/content-audio.php:211
+#: ../inc/post-types/content-chat.php:130
+#: ../inc/post-types/content-gallery.php:152
+#: ../inc/post-types/content-image.php:129
+#: ../inc/post-types/content-link.php:116
+#: ../inc/post-types/content-quote.php:121
+#: ../inc/post-types/content-status.php:131
+#: ../inc/post-types/content-video.php:137 ../inc/post-types/content.php:130
+msgid "Codepen"
+msgstr ""
+
+#: ../author.php:27 ../index.php:236 ../search.php:114 ../single.php:316
+#: ../admin/ReduxFramework/blog/blog-config.php:748
+#: ../inc/custom-widgets/social-links.php:44
+#: ../inc/post-types/content-aside.php:131
+#: ../inc/post-types/content-audio.php:212
+#: ../inc/post-types/content-chat.php:131
+#: ../inc/post-types/content-gallery.php:153
+#: ../inc/post-types/content-image.php:130
+#: ../inc/post-types/content-link.php:117
+#: ../inc/post-types/content-quote.php:122
+#: ../inc/post-types/content-status.php:132
+#: ../inc/post-types/content-video.php:138 ../inc/post-types/content.php:131
+msgid "Deviantart"
+msgstr ""
+
+#: ../author.php:28 ../index.php:237 ../search.php:115 ../single.php:317
+#: ../admin/ReduxFramework/blog/blog-config.php:756
+#: ../inc/custom-widgets/social-links.php:45
+#: ../inc/post-types/content-aside.php:132
+#: ../inc/post-types/content-audio.php:213
+#: ../inc/post-types/content-chat.php:132
+#: ../inc/post-types/content-gallery.php:154
+#: ../inc/post-types/content-image.php:131
+#: ../inc/post-types/content-link.php:118
+#: ../inc/post-types/content-quote.php:123
+#: ../inc/post-types/content-status.php:133
+#: ../inc/post-types/content-video.php:139 ../inc/post-types/content.php:132
+msgid "Dribbble"
+msgstr ""
+
+#: ../author.php:29 ../index.php:230 ../search.php:108 ../single.php:318
+#: ../admin/ReduxFramework/blog/blog-config.php:700 ../inc/metabox.php:102
+#: ../inc/custom-widgets/social-links.php:46
+#: ../inc/post-types/content-aside.php:133
+#: ../inc/post-types/content-audio.php:214
+#: ../inc/post-types/content-chat.php:133
+#: ../inc/post-types/content-gallery.php:155
+#: ../inc/post-types/content-image.php:132
+#: ../inc/post-types/content-link.php:119
+#: ../inc/post-types/content-quote.php:124
+#: ../inc/post-types/content-status.php:134
+#: ../inc/post-types/content-video.php:140 ../inc/post-types/content.php:133
+msgid "Facebook"
+msgstr ""
+
+#: ../author.php:30 ../index.php:239 ../search.php:117 ../single.php:319
+#: ../admin/ReduxFramework/blog/blog-config.php:772 ../inc/metabox.php:110
+#: ../inc/custom-widgets/social-links.php:47
+#: ../inc/post-types/content-aside.php:134
+#: ../inc/post-types/content-audio.php:215
+#: ../inc/post-types/content-chat.php:134
+#: ../inc/post-types/content-gallery.php:156
+#: ../inc/post-types/content-image.php:133
+#: ../inc/post-types/content-link.php:120
+#: ../inc/post-types/content-quote.php:125
+#: ../inc/post-types/content-status.php:135
+#: ../inc/post-types/content-video.php:141 ../inc/post-types/content.php:134
+msgid "Flickr"
+msgstr ""
+
+#: ../author.php:31 ../index.php:238 ../search.php:116 ../single.php:320
+#: ../admin/ReduxFramework/blog/blog-config.php:764
+#: ../inc/custom-widgets/social-links.php:48
+#: ../inc/post-types/content-aside.php:135
+#: ../inc/post-types/content-audio.php:216
+#: ../inc/post-types/content-chat.php:135
+#: ../inc/post-types/content-gallery.php:157
+#: ../inc/post-types/content-image.php:134
+#: ../inc/post-types/content-link.php:121
+#: ../inc/post-types/content-quote.php:126
+#: ../inc/post-types/content-status.php:136
+#: ../inc/post-types/content-video.php:142 ../inc/post-types/content.php:135
+msgid "Foursquare"
+msgstr ""
+
+#: ../author.php:32 ../single.php:321 ../inc/metabox.php:118
+#: ../inc/custom-widgets/social-links.php:49
+#: ../inc/post-types/content-aside.php:136
+#: ../inc/post-types/content-audio.php:217
+#: ../inc/post-types/content-chat.php:136
+#: ../inc/post-types/content-gallery.php:158
+#: ../inc/post-types/content-image.php:135
+#: ../inc/post-types/content-link.php:122
+#: ../inc/post-types/content-quote.php:127
+#: ../inc/post-types/content-status.php:137
+#: ../inc/post-types/content-video.php:143 ../inc/post-types/content.php:136
+msgid "Github"
+msgstr ""
+
+#: ../author.php:33 ../single.php:322
+#: ../inc/custom-widgets/social-links.php:50
+#: ../inc/post-types/content-aside.php:137
+#: ../inc/post-types/content-audio.php:218
+#: ../inc/post-types/content-chat.php:137
+#: ../inc/post-types/content-gallery.php:159
+#: ../inc/post-types/content-image.php:136
+#: ../inc/post-types/content-link.php:123
+#: ../inc/post-types/content-quote.php:128
+#: ../inc/post-types/content-status.php:138
+#: ../inc/post-types/content-video.php:144 ../inc/post-types/content.php:137
+msgid "Google +"
+msgstr ""
+
+#: ../author.php:34 ../index.php:241 ../search.php:119 ../single.php:323
+#: ../admin/ReduxFramework/blog/blog-config.php:786 ../inc/metabox.php:126
+#: ../inc/custom-widgets/instagram.php:97
+#: ../inc/custom-widgets/social-links.php:51
+#: ../inc/post-types/content-aside.php:138
+#: ../inc/post-types/content-audio.php:219
+#: ../inc/post-types/content-chat.php:138
+#: ../inc/post-types/content-gallery.php:160
+#: ../inc/post-types/content-image.php:137
+#: ../inc/post-types/content-link.php:124
+#: ../inc/post-types/content-quote.php:129
+#: ../inc/post-types/content-status.php:139
+#: ../inc/post-types/content-video.php:145 ../inc/post-types/content.php:138
+msgid "Instagram"
+msgstr ""
+
+#: ../author.php:35 ../index.php:233 ../search.php:111 ../single.php:324
+#: ../admin/ReduxFramework/blog/blog-config.php:724 ../inc/metabox.php:134
+#: ../inc/custom-widgets/social-links.php:52
+#: ../inc/post-types/content-aside.php:139
+#: ../inc/post-types/content-audio.php:220
+#: ../inc/post-types/content-chat.php:139
+#: ../inc/post-types/content-gallery.php:161
+#: ../inc/post-types/content-image.php:138
+#: ../inc/post-types/content-link.php:125
+#: ../inc/post-types/content-quote.php:130
+#: ../inc/post-types/content-status.php:140
+#: ../inc/post-types/content-video.php:146 ../inc/post-types/content.php:139
+msgid "Linkedin"
+msgstr ""
+
+#: ../author.php:36 ../index.php:242 ../search.php:120 ../single.php:325
+#: ../admin/ReduxFramework/blog/blog-config.php:793 ../inc/metabox.php:143
+#: ../inc/custom-widgets/social-links.php:53
+#: ../inc/post-types/content-aside.php:140
+#: ../inc/post-types/content-audio.php:221
+#: ../inc/post-types/content-chat.php:140
+#: ../inc/post-types/content-gallery.php:162
+#: ../inc/post-types/content-image.php:139
+#: ../inc/post-types/content-link.php:126
+#: ../inc/post-types/content-quote.php:131
+#: ../inc/post-types/content-status.php:141
+#: ../inc/post-types/content-video.php:147 ../inc/post-types/content.php:140
+msgid "Pinterest"
+msgstr ""
+
+#: ../author.php:37 ../single.php:326
+#: ../inc/custom-widgets/social-links.php:54
+#: ../inc/post-types/content-aside.php:141
+#: ../inc/post-types/content-audio.php:222
+#: ../inc/post-types/content-chat.php:141
+#: ../inc/post-types/content-gallery.php:163
+#: ../inc/post-types/content-image.php:140
+#: ../inc/post-types/content-link.php:127
+#: ../inc/post-types/content-quote.php:132
+#: ../inc/post-types/content-status.php:142
+#: ../inc/post-types/content-video.php:148 ../inc/post-types/content.php:141
+msgid "Soundcloud"
+msgstr ""
+
+#: ../author.php:38 ../index.php:244 ../search.php:122 ../single.php:327
+#: ../admin/ReduxFramework/blog/blog-config.php:807 ../inc/metabox.php:151
+#: ../inc/custom-widgets/social-links.php:55
+#: ../inc/post-types/content-aside.php:142
+#: ../inc/post-types/content-audio.php:223
+#: ../inc/post-types/content-chat.php:142
+#: ../inc/post-types/content-gallery.php:164
+#: ../inc/post-types/content-image.php:141
+#: ../inc/post-types/content-link.php:128
+#: ../inc/post-types/content-quote.php:133
+#: ../inc/post-types/content-status.php:143
+#: ../inc/post-types/content-video.php:149 ../inc/post-types/content.php:142
+msgid "Tumblr"
+msgstr ""
+
+#: ../author.php:39 ../index.php:231 ../search.php:109 ../single.php:328
+#: ../admin/ReduxFramework/blog/blog-config.php:708 ../inc/metabox.php:159
+#: ../inc/custom-widgets/social-links.php:56
+#: ../inc/post-types/content-aside.php:143
+#: ../inc/post-types/content-audio.php:224
+#: ../inc/post-types/content-chat.php:143
+#: ../inc/post-types/content-gallery.php:165
+#: ../inc/post-types/content-image.php:142
+#: ../inc/post-types/content-link.php:129
+#: ../inc/post-types/content-quote.php:134
+#: ../inc/post-types/content-status.php:144
+#: ../inc/post-types/content-video.php:150 ../inc/post-types/content.php:143
+msgid "Twitter"
+msgstr ""
+
+#: ../author.php:40 ../index.php:245 ../search.php:123 ../single.php:329
+#: ../admin/ReduxFramework/blog/blog-config.php:814
+#: ../inc/custom-widgets/social-links.php:57
+#: ../inc/post-types/content-aside.php:144
+#: ../inc/post-types/content-audio.php:225
+#: ../inc/post-types/content-chat.php:144
+#: ../inc/post-types/content-gallery.php:166
+#: ../inc/post-types/content-image.php:143
+#: ../inc/post-types/content-link.php:130
+#: ../inc/post-types/content-quote.php:135
+#: ../inc/post-types/content-status.php:145
+#: ../inc/post-types/content-video.php:151 ../inc/post-types/content.php:144
+msgid "Vimeo"
+msgstr ""
+
+#: ../author.php:41 ../index.php:246 ../search.php:124 ../single.php:330
+#: ../admin/ReduxFramework/blog/blog-config.php:821
+#: ../inc/custom-widgets/social-links.php:58
+#: ../inc/post-types/content-aside.php:145
+#: ../inc/post-types/content-audio.php:226
+#: ../inc/post-types/content-chat.php:145
+#: ../inc/post-types/content-gallery.php:167
+#: ../inc/post-types/content-image.php:144
+#: ../inc/post-types/content-link.php:131
+#: ../inc/post-types/content-quote.php:136
+#: ../inc/post-types/content-status.php:146
+#: ../inc/post-types/content-video.php:152 ../inc/post-types/content.php:145
+msgid "Vine"
+msgstr ""
+
+#: ../author.php:42 ../index.php:247 ../search.php:125 ../single.php:331
+#: ../admin/ReduxFramework/blog/blog-config.php:828 ../inc/metabox.php:167
+#: ../inc/custom-widgets/social-links.php:59
+#: ../inc/post-types/content-aside.php:146
+#: ../inc/post-types/content-audio.php:227
+#: ../inc/post-types/content-chat.php:146
+#: ../inc/post-types/content-gallery.php:168
+#: ../inc/post-types/content-image.php:145
+#: ../inc/post-types/content-link.php:132
+#: ../inc/post-types/content-quote.php:137
+#: ../inc/post-types/content-status.php:147
+#: ../inc/post-types/content-video.php:153 ../inc/post-types/content.php:146
+msgid "Youtube"
+msgstr ""
+
+#: ../author.php:43 ../single.php:332 ../inc/post-types/content-aside.php:147
+#: ../inc/post-types/content-audio.php:228
+#: ../inc/post-types/content-chat.php:147
+#: ../inc/post-types/content-gallery.php:169
+#: ../inc/post-types/content-image.php:146
+#: ../inc/post-types/content-link.php:133
+#: ../inc/post-types/content-quote.php:138
+#: ../inc/post-types/content-status.php:148
+#: ../inc/post-types/content-video.php:154 ../inc/post-types/content.php:147
+msgid "Send E-mail"
+msgstr "Envoyer l'email"
+
+#: ../author.php:44 ../single.php:333 ../inc/post-types/content-aside.php:148
+#: ../inc/post-types/content-audio.php:229
+#: ../inc/post-types/content-chat.php:148
+#: ../inc/post-types/content-gallery.php:170
+#: ../inc/post-types/content-image.php:147
+#: ../inc/post-types/content-link.php:134
+#: ../inc/post-types/content-quote.php:139
+#: ../inc/post-types/content-status.php:149
+#: ../inc/post-types/content-video.php:155 ../inc/post-types/content.php:148
+msgid "Rss Feed"
+msgstr "Flux rss\t"
+
+#: ../author.php:51
+msgid "ALL POSTS"
+msgstr "TOUS LES MEILLEURS"
+
+#: ../author.php:55
+msgid "Random Post"
+msgstr "Meilleur au hasard"
+
+#: ../author.php:71 ../index.php:21 ../search.php:21 ../search.php:83
+#: ../single.php:54
+msgid "Your search returned no results. Please try a different keyword!"
+msgstr ""
+"Nous n'avons trouvé aucun résultat à votre recherche. Vous pouvez essayer "
+"avec un mot-clé différent !"
+
+#: ../comments.php:9
+msgid "COMMENTS"
+msgstr "COMMENTAIRES"
+
+#: ../comments.php:15 ../single.php:242 ../inc/post-types/content-aside.php:18
+#: ../inc/post-types/content-audio.php:56
+#: ../inc/post-types/content-chat.php:18
+#: ../inc/post-types/content-gallery.php:18
+#: ../inc/post-types/content-image.php:18
+#: ../inc/post-types/content-link.php:37
+#: ../inc/post-types/content-quote.php:35
+#: ../inc/post-types/content-status.php:18
+#: ../inc/post-types/content-video.php:18 ../inc/post-types/content.php:18
+msgid "No comments yet"
+msgstr "Pas de commentaires pour le moment"
+
+#: ../comments.php:15 ../single.php:242 ../inc/post-types/content-aside.php:18
+#: ../inc/post-types/content-audio.php:56
+#: ../inc/post-types/content-chat.php:18
+#: ../inc/post-types/content-gallery.php:18
+#: ../inc/post-types/content-image.php:18
+#: ../inc/post-types/content-link.php:37
+#: ../inc/post-types/content-quote.php:35
+#: ../inc/post-types/content-status.php:18
+#: ../inc/post-types/content-video.php:18 ../inc/post-types/content.php:18
+msgid "1 Comment"
+msgstr "1 Commentaire"
+
+#: ../comments.php:15 ../single.php:242 ../inc/post-types/content-aside.php:18
+#: ../inc/post-types/content-audio.php:56
+#: ../inc/post-types/content-chat.php:18
+#: ../inc/post-types/content-gallery.php:18
+#: ../inc/post-types/content-image.php:18
+#: ../inc/post-types/content-link.php:37
+#: ../inc/post-types/content-quote.php:35
+#: ../inc/post-types/content-status.php:18
+#: ../inc/post-types/content-video.php:18 ../inc/post-types/content.php:18
+msgid "% Comments"
+msgstr "% Commentaires"
+
+#: ../comments.php:15
+msgid "Comments are off this post"
+msgstr "Les commentaires sont désactivés pour cet article"
+
+#: ../comments.php:19
+msgid "LEAVE A COMMENT"
+msgstr "LAISSER VOTRE MEILLEUR COMMENTAIRE"
+
+#: ../comments.php:32
+msgid "&larr; Older Comments"
+msgstr "&larr; Commentaires plus anciens"
+
+#: ../comments.php:33
+msgid "Newer Comments &rarr;"
+msgstr "Commentaires plus récents &rarr;"
+
+#: ../comments.php:39
+msgid "LEAVE A REPLY"
+msgstr "RÉPONDRE"
+
+#: ../comments.php:42
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés"
+
+#: ../comments.php:52
+msgid "NAME"
+msgstr "NOM"
+
+#: ../comments.php:53
+msgid "E-MAIL"
+msgstr "E-MAIL"
+
+#: ../comments.php:54
+msgid "WEB SITE"
+msgstr "SITE WEB"
+
+#: ../comments.php:58
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"Connecté en tant que <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Se "
+"déconnecter de ce compte\">Se déconnecter?</a>"
+
+#: ../comments.php:59
+msgid "WRITE A COMMENT"
+msgstr "ECRIS UN COMMENTAIRE"
+
+#: ../comments.php:60
+#, php-format
+msgid "Leave a reply to %s"
+msgstr "Laisser une réponse à %s"
+
+#: ../comments.php:61
+msgid "Click here to cancel the reply"
+msgstr "Cliquez ici pour annuler la réponse"
+
+#: ../comments.php:62
+msgid "Post comment"
+msgstr "Poster le commentaire"
+
+#: ../comments.php:63
+msgid "COMMENT"
+msgstr "COMMENTER"
+
+#: ../comments.php:64
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Tu dois être <a href=\"%s\">connecté</a> pour commenter ce meilleur"
+
+#: ../comments.php:66
+msgid "SUBMIT"
+msgstr "SOUMETTRE"
+
+#: ../footer.php:7 ../footer.php:12 ../footer.php:17 ../index.php:13
+#: ../index.php:27 ../page.php:24 ../page.php:67 ../search.php:13
+#: ../search.php:27 ../single.php:41 ../single.php:61
+msgid "Please Add Widget <a href='wp-admin/widgets.php'>here</a>"
+msgstr "Ajoute un widget man ! <a href='wp-admin/widgets.php'>Ici</a>"
+
+#: ../footer.php:30
+msgid "Please Add Widget"
+msgstr "Ajoute un widget man"
+
+#: ../functions.php:260
+msgid "Author Page Image Url"
+msgstr "Url de l'image de la page auteur"
+
+#: ../functions.php:261
+msgid "Job Title"
+msgstr "Métier"
+
+#: ../functions.php:262
+msgid "Behance URL"
+msgstr ""
+
+#: ../functions.php:263
+msgid "Codepen URL"
+msgstr ""
+
+#: ../functions.php:264
+msgid "Deviantart URL"
+msgstr ""
+
+#: ../functions.php:265
+msgid "Dribbble URL"
+msgstr ""
+
+#: ../functions.php:266
+msgid "Facebook URL"
+msgstr ""
+
+#: ../functions.php:267
+msgid "Flickr URL"
+msgstr ""
+
+#: ../functions.php:268
+msgid "Foursquare URL"
+msgstr ""
+
+#: ../functions.php:269
+msgid "Github URL"
+msgstr ""
+
+#: ../functions.php:270
+msgid "Google + URL"
+msgstr ""
+
+#: ../functions.php:271
+msgid "Instagram URL"
+msgstr ""
+
+#: ../functions.php:272
+msgid "Linkedin URL"
+msgstr ""
+
+#: ../functions.php:273
+msgid "Pinterest URL"
+msgstr ""
+
+#: ../functions.php:274
+msgid "Soundcloud URL"
+msgstr ""
+
+#: ../functions.php:275
+msgid "Tumblr URL"
+msgstr ""
+
+#: ../functions.php:276
+msgid "Twitter URL"
+msgstr ""
+
+#: ../functions.php:277
+msgid "Vimeo URL"
+msgstr ""
+
+#: ../functions.php:278
+msgid "Vine URL"
+msgstr ""
+
+#: ../functions.php:279
+msgid "Vk URL"
+msgstr ""
+
+#: ../functions.php:280
+msgid "Youtube URL"
+msgstr ""
+
+#: ../functions.php:316 ../functions.php:318
+msgid "Main Sidebar"
+msgstr ""
+
+#: ../functions.php:326 ../functions.php:328
+msgid "Footer 1 Widget"
+msgstr ""
+
+#: ../functions.php:336 ../functions.php:338
+msgid "Footer 2 Widget"
+msgstr ""
+
+#: ../functions.php:346 ../functions.php:348
+msgid "Footer 3 Widget"
+msgstr ""
+
+#: ../functions.php:419
+msgid "Search for:"
+msgstr "Rechercher :"
+
+#: ../functions.php:445
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../functions.php:453
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions.php:457
+msgid "Your comment is awaiting moderation."
+msgstr "Ton commentaire est en cours de validation"
+
+#: ../functions.php:475
+msgid "Top Menu"
+msgstr ""
+
+#: ../functions.php:501
+msgid "LOAD MORE"
+msgstr "VOIR PLUS DE MEILLEURS"
+
+#: ../functions.php:523
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../index.php:104 ../index.php:122 ../index.php:191 ../search.php:78
+#: ../single.php:208 ../inc/post-types/content-aside.php:52
+#: ../inc/post-types/content-audio.php:131
+#: ../inc/post-types/content-chat.php:52
+#: ../inc/post-types/content-gallery.php:77
+#: ../inc/post-types/content-image.php:52
+#: ../inc/post-types/content-status.php:53
+#: ../inc/post-types/content-video.php:60 ../inc/post-types/content.php:52
+msgid "READ MORE"
+msgstr "LIRE PLUS"
+
+#: ../index.php:141
+msgid "OTHER POSTS"
+msgstr "VOUS EN VOULEZ ENCORE ?"
+
+#: ../index.php:232 ../search.php:110
+#: ../admin/ReduxFramework/blog/blog-config.php:716
+msgid "Google Plus"
+msgstr ""
+
+#: ../index.php:240 ../search.php:118
+#: ../admin/ReduxFramework/blog/blog-config.php:779
+msgid "GitHub"
+msgstr ""
+
+#: ../index.php:243 ../search.php:121
+msgid "SoundCloud"
+msgstr ""
+
+#: ../menu.php:39
+msgid "Search"
+msgstr "Rechercher"
+
+#: ../menu.php:55
+msgid "Please Add Menu from Appearance > <a href='"
+msgstr ""
+
+#: ../search.php:53
+msgid "SEARCH RESULTS"
+msgstr "RÉSULTATS DE VOTRE RECHERCHE"
+
+#: ../single.php:242 ../inc/post-types/content-aside.php:18
+#: ../inc/post-types/content-audio.php:56
+#: ../inc/post-types/content-chat.php:18
+#: ../inc/post-types/content-gallery.php:18
+#: ../inc/post-types/content-image.php:18
+#: ../inc/post-types/content-link.php:37
+#: ../inc/post-types/content-quote.php:35
+#: ../inc/post-types/content-status.php:18
+#: ../inc/post-types/content-video.php:18 ../inc/post-types/content.php:18
+msgid "Comments are off for this post"
+msgstr "Les commentaires sont désactivés pour ce meilleur"
+
+#: ../single.php:284 ../inc/post-types/content-aside.php:58
+#: ../inc/post-types/content-aside.php:93
+#: ../inc/post-types/content-audio.php:137
+#: ../inc/post-types/content-audio.php:173
+#: ../inc/post-types/content-chat.php:58
+#: ../inc/post-types/content-gallery.php:83
+#: ../inc/post-types/content-gallery.php:116
+#: ../inc/post-types/content-image.php:58
+#: ../inc/post-types/content-image.php:93
+#: ../inc/post-types/content-link.php:77
+#: ../inc/post-types/content-quote.php:80
+#: ../inc/post-types/content-status.php:59
+#: ../inc/post-types/content-status.php:95
+#: ../inc/post-types/content-video.php:66
+#: ../inc/post-types/content-video.php:101 ../inc/post-types/content.php:58
+#: ../inc/post-types/content.php:94
+msgid "SHARE"
+msgstr "PARTAGER"
+
+#: ../single.php:339 ../inc/post-types/content-aside.php:155
+#: ../inc/post-types/content-audio.php:236
+#: ../inc/post-types/content-chat.php:155
+#: ../inc/post-types/content-gallery.php:177
+#: ../inc/post-types/content-image.php:154
+#: ../inc/post-types/content-link.php:141
+#: ../inc/post-types/content-quote.php:145
+#: ../inc/post-types/content-status.php:156
+#: ../inc/post-types/content-video.php:162 ../inc/post-types/content.php:155
+msgid "RELATED POSTS"
+msgstr "ARTICLES LIÉS"
+
+#: ../single.php:375 ../single.php:377 ../inc/post-types/content-aside.php:193
+#: ../inc/post-types/content-aside.php:195
+#: ../inc/post-types/content-audio.php:271
+#: ../inc/post-types/content-audio.php:273
+#: ../inc/post-types/content-chat.php:193
+#: ../inc/post-types/content-chat.php:195
+#: ../inc/post-types/content-gallery.php:215
+#: ../inc/post-types/content-gallery.php:217
+#: ../inc/post-types/content-image.php:192
+#: ../inc/post-types/content-image.php:194
+#: ../inc/post-types/content-link.php:179
+#: ../inc/post-types/content-link.php:181
+#: ../inc/post-types/content-quote.php:183
+#: ../inc/post-types/content-quote.php:185
+#: ../inc/post-types/content-status.php:194
+#: ../inc/post-types/content-status.php:196
+#: ../inc/post-types/content-video.php:200
+#: ../inc/post-types/content-video.php:202 ../inc/post-types/content.php:193
+#: ../inc/post-types/content.php:195
+msgid "No related post"
+msgstr "Pas d'articles liés"
+
+#: ../admin/ReduxFramework/blog/barebones-config.php:54
+#: ../admin/ReduxFramework/blog/blog-config.php:227
+msgid "Home Settings"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/barebones-config.php:55
+msgid ""
+"Redux Framework was created with the developer in mind. It allows for any "
+"theme developer to have an advanced theme panel with most of the features a "
+"developer would need. For more information check out the Github repo at: <a "
+"href=\"https://github.com/ReduxFramework/Redux-Framework\">https://github."
+"com/ReduxFramework/Redux-Framework</a>"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/barebones-config.php:63
+msgid "Web Fonts"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/barebones-config.php:66
+msgid "Basic media uploader with disabled URL input field."
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/barebones-config.php:67
+msgid "Upload any media using the WordPress native uploader"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/barebones-config.php:82
+#: ../admin/ReduxFramework/blog/blog-config.php:952
+msgid "Theme Information 1"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/barebones-config.php:83
+#: ../admin/ReduxFramework/blog/barebones-config.php:89
+#: ../admin/ReduxFramework/blog/blog-config.php:953
+#: ../admin/ReduxFramework/blog/blog-config.php:959
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/barebones-config.php:88
+#: ../admin/ReduxFramework/blog/blog-config.php:958
+msgid "Theme Information 2"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/barebones-config.php:93
+#: ../admin/ReduxFramework/blog/blog-config.php:963
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/barebones-config.php:113
+#: ../admin/ReduxFramework/blog/barebones-config.php:114
+msgid "Sample Options"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/barebones-config.php:211
+#, php-format
+msgid ""
+"<p>Did you know that Redux sets a global variable for you? To access any of "
+"your saved options from within your code you can use your global variable: "
+"<strong>$%1$s</strong></p>"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/barebones-config.php:213
+#: ../admin/ReduxFramework/blog/blog-config.php:1058
+msgid ""
+"<p>This text is displayed above the options panel. It isn't required, but "
+"more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/barebones-config.php:217
+msgid ""
+"<p>This text is displayed below the options panel. It isn't required, but "
+"more info is always better! The footer_text field accepts all HTML.</p>"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:175
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:193
+#, php-format
+msgid "By %s"
+msgstr "Par %s"
+
+#: ../admin/ReduxFramework/blog/blog-config.php:194
+#, php-format
+msgid "Version %s"
+msgstr "Version %s"
+
+#: ../admin/ReduxFramework/blog/blog-config.php:195
+#: ../inc/custom-widgets/tabs.php:163
+msgid "Tags"
+msgstr "Tags"
+
+#: ../admin/ReduxFramework/blog/blog-config.php:200
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:200
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:236
+msgid "Main Color"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:237
+#: ../admin/ReduxFramework/blog/blog-config.php:266
+msgid "Pick a main color  (default: #ff0a60)."
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:245
+msgid "Background Style"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:246
+msgid "Image Background is only working on classic mode."
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:255
+#: ../admin/ReduxFramework/blog/blog-config.php:258
+msgid "Background Image"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:259
+msgid "Upload Background Image"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:265
+#: ../admin/zilla-shortcodes/tinymce/config.php:68
+#: ../admin/zilla-shortcodes/tinymce/config.php:73
+msgid "Background Color"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:273
+msgid "Blog Options"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:274
+msgid " Please select Home Section Type "
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:280
+msgid "Blog Style"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:281
+msgid "Select blog style"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:289
+#: ../admin/ReduxFramework/blog/blog-config.php:300
+msgid "Post Excerpt Word Count"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:290
+#: ../admin/ReduxFramework/blog/blog-config.php:301
+msgid "Post Excerpt Word Count. Default : 95 Word"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:311
+msgid "Grid Type"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:321
+#: ../admin/ReduxFramework/blog/blog-config.php:322
+#: ../admin/ReduxFramework/blog/blog-config.php:323
+msgid "Grid Page Count"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:331
+#: ../admin/ReduxFramework/blog/blog-config.php:335
+msgid "Blog Grid Background"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:334
+msgid "Blog Grid Background (Height is not bigger than 420px) "
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:342
+msgid "Home Sidebar Position"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:343
+msgid "Home Sidebar Position Layout"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:352
+msgid "Home Blog Sidebar"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:353
+#: ../admin/ReduxFramework/blog/blog-config.php:423
+msgid "Select your blog sidebar"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:361
+msgid "Blog Post Page Type"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:370
+msgid "Loading"
+msgstr "Chargement"
+
+#: ../admin/ReduxFramework/blog/blog-config.php:371
+msgid "Loading options"
+msgstr "Options de chargement"
+
+#: ../admin/ReduxFramework/blog/blog-config.php:377
+#: ../admin/ReduxFramework/blog/blog-config.php:378
+msgid "Header Search Icon"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:384
+#: ../admin/ReduxFramework/blog/blog-config.php:385
+msgid "Push Sidebar"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:391
+#: ../admin/ReduxFramework/blog/blog-config.php:392
+msgid "Modern Social & Newsletter"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:398
+msgid "Minify Js and Css"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:399
+msgid "Speed Up your theme"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:405
+msgid "Page Options"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:406
+msgid " Page Sidebar Options"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:413
+msgid "Page Sidebar Position"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:414
+msgid "Page Sidebar Position Layout"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:422
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:435
+msgid "Logo & Favicon"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:440
+#: ../admin/ReduxFramework/blog/blog-config.php:443
+msgid "Logo"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:444
+#: ../admin/ReduxFramework/blog/blog-config.php:464
+msgid "Upload Logo"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:449
+msgid "Logo Height"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:450
+#: ../admin/ReduxFramework/blog/blog-config.php:451
+msgid "Logo Height (Default 50px)"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:460
+#: ../admin/ReduxFramework/blog/blog-config.php:463
+msgid "Favicon"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:469
+#: ../admin/ReduxFramework/blog/blog-config.php:472
+msgid "Ipad Retina Icon (144x144)"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:473
+msgid "Upload Ipad Retina Icon"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:478
+#: ../admin/ReduxFramework/blog/blog-config.php:481
+msgid "Iphone Retina Icon (114x114)"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:482
+msgid "Upload Iphone Retina Icon"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:487
+#: ../admin/ReduxFramework/blog/blog-config.php:490
+msgid "Ipad Icon (72x72)"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:491
+msgid "Upload Ipad Icon"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:496
+#: ../admin/ReduxFramework/blog/blog-config.php:499
+msgid "Iphone Icon (57x57)"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:500
+msgid "Upload Iphone Icon"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:507
+msgid "Typography"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:513
+#: ../admin/ReduxFramework/blog/blog-config.php:514
+#: ../admin/ReduxFramework/blog/blog-config.php:558
+#: ../admin/ReduxFramework/blog/blog-config.php:574
+#: ../admin/ReduxFramework/blog/blog-config.php:630
+#: ../admin/ReduxFramework/blog/blog-config.php:646
+msgid "Title Font"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:522
+#: ../admin/ReduxFramework/blog/blog-config.php:523
+#: ../admin/ReduxFramework/blog/blog-config.php:594
+#: ../admin/ReduxFramework/blog/blog-config.php:595
+msgid "Font Name"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:531
+#: ../admin/ReduxFramework/blog/blog-config.php:603
+msgid "Custom Font (eot)"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:532
+#: ../admin/ReduxFramework/blog/blog-config.php:533
+#: ../admin/ReduxFramework/blog/blog-config.php:604
+#: ../admin/ReduxFramework/blog/blog-config.php:605
+msgid "Custom Font (eot) URL"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:540
+#: ../admin/ReduxFramework/blog/blog-config.php:612
+msgid "Custom Font (woff)"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:541
+#: ../admin/ReduxFramework/blog/blog-config.php:542
+#: ../admin/ReduxFramework/blog/blog-config.php:613
+#: ../admin/ReduxFramework/blog/blog-config.php:614
+msgid "Custom Font (woff) URL"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:549
+#: ../admin/ReduxFramework/blog/blog-config.php:621
+msgid "Custom Font (ttf)"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:550
+#: ../admin/ReduxFramework/blog/blog-config.php:551
+#: ../admin/ReduxFramework/blog/blog-config.php:622
+#: ../admin/ReduxFramework/blog/blog-config.php:623
+msgid "Custom Font (ttf) URL"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:585
+#: ../admin/ReduxFramework/blog/blog-config.php:586
+msgid "Second Title Font"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:657
+#: ../admin/ReduxFramework/blog/blog-config.php:674
+msgid "Site Font"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:688
+msgid "Newsletter & Social"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:693
+msgid "Newsletter Shortcode"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:694
+msgid "Please add your newsletter form shortcode."
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:701
+msgid "Type your facebook url"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:709
+msgid "Type your twitter url"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:717
+msgid "Type your google plus url"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:725
+msgid "Type your linkedin url"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:733
+msgid "Type your codepen url"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:741
+msgid "Type your behance url"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:749
+msgid "Type your deviantart url"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:757
+msgid "Type your dribbble url"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:765
+msgid "Type your foursquare url"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:773
+msgid "Type your flickr url"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:780
+msgid "Type your github url"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:787
+msgid "Type your instagram url"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:794
+msgid "Type your pinterest url"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:800
+msgid "Sound Cloud"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:801
+msgid "Type your soundcloud url"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:808
+msgid "Type your tumblr url"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:815
+msgid "Type your vimeo url"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:822
+msgid "Type your vine url"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:829
+msgid "Type your youtube url"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:838
+msgid "Single Post Options"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:843
+msgid "Crop My Feature Image"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:844
+msgid ""
+"Crop My Feature Image (If you switch of this feature your website will may "
+"slow. Please upload your image Max, 750px(Width) )"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:850
+#: ../admin/ReduxFramework/blog/blog-config.php:851
+msgid "Featured Image Zoom"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:857
+msgid "Show Author"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:858
+#: ../admin/ReduxFramework/blog/blog-config.php:865
+#: ../admin/ReduxFramework/blog/blog-config.php:872
+#: ../admin/ReduxFramework/blog/blog-config.php:879
+#: ../admin/ReduxFramework/blog/blog-config.php:886
+#: ../admin/ReduxFramework/blog/blog-config.php:893
+#: ../admin/ReduxFramework/blog/blog-config.php:900
+msgid "Post options"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:864
+msgid "Post Ratings"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:871
+msgid "Show Font Increase/decrease"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:878
+msgid "Show Related Post"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:885
+msgid "Show Prev/Next Post"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:892
+msgid "Show Reading Progress"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:899
+msgid "Modern Post Scroll Effect"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:908
+msgid "Custom Css"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:913
+msgid "Custom CSS"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:914
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:923
+msgid "Tracking Code"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:928
+msgid "JS Code"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:929
+msgid "Paste your JS code here."
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:941
+msgid "Documentation"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:983
+#: ../admin/ReduxFramework/blog/blog-config.php:984
+msgid "Blogy Options"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:1056
+msgid "<p> Theme2035 Framework"
+msgstr ""
+
+#: ../admin/ReduxFramework/blog/blog-config.php:1062
+msgid "<p> Blog Admin Panel </p>"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:283
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:283
+msgid "Redux Framework"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:287
+#: ../admin/ReduxFramework/ReduxCore/framework.php:291
+#: ../admin/ReduxFramework/ReduxCore/framework.php:1419
+msgid "Options"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:1358
+#: ../admin/ReduxFramework/ReduxCore/framework.php:1359
+#: ../admin/ReduxFramework/ReduxCore/framework.php:3432
+#: ../admin/ReduxFramework/ReduxCore/framework.php:3508
+msgid "System Info"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:1877
+#: ../admin/ReduxFramework/ReduxCore/extensions/customizer/extension_customizer.php:452
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:1878
+#: ../admin/ReduxFramework/ReduxCore/extensions/customizer/extension_customizer.php:453
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:1879
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:1880
+#: ../admin/ReduxFramework/ReduxCore/extensions/customizer/extension_customizer.php:454
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:1881
+msgid "Please Wait"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:2028
+msgid "Hints"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:2029
+msgid "<p>"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:2149
+msgid "Default"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:3188
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:3262
+msgid "Expand"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:3264
+#: ../admin/ReduxFramework/ReduxCore/framework.php:3565
+msgid "Save Changes"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:3266
+#: ../admin/ReduxFramework/ReduxCore/framework.php:3567
+msgid "Reset Section"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:3268
+#: ../admin/ReduxFramework/ReduxCore/framework.php:3569
+msgid "Reset All"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:3271
+#: ../admin/ReduxFramework/ReduxCore/framework.php:3572
+msgid "Working..."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:3291
+msgid "Settings Imported!"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:3306
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:3320
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:3334
+msgid "Settings Saved!"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:3352
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:3360
+msgid "error(s) were found!"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/framework.php:3368
+msgid "warning(s) were found!"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/extensions/customizer/extension_customizer.php:487
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/extensions/customizer/extension_customizer.php:488
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/extensions/customizer/extension_customizer.php:489
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/class.redux_functions.php:256
+msgid "Dismiss"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/debug.php:41
+#: ../admin/ReduxFramework/ReduxCore/inc/debug.php:69
+#: ../admin/ReduxFramework/ReduxCore/inc/debug.php:76
+#: ../admin/ReduxFramework/ReduxCore/inc/debug.php:77
+msgid "Options Object"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/debug.php:54
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/import_export.php:78
+msgid "Import / Export Options"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/import_export.php:81
+msgid "Import Options"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/import_export.php:82
+msgid "Import from file"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/import_export.php:82
+msgid "Import from URL"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/import_export.php:85
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/import_export.php:90
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/import_export.php:94
+msgid "Import"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/import_export.php:94
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/import_export.php:97
+msgid "Export Options"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/import_export.php:100
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/import_export.php:104
+msgid "Copy"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/import_export.php:104
+msgid "Download"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/import_export.php:104
+msgid "Copy Link"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/import_export.php:140
+#: ../admin/ReduxFramework/ReduxCore/inc/import_export.php:149
+#: ../admin/ReduxFramework/ReduxCore/inc/import_export.php:150
+msgid "Import / Export"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:128
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:129
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatability."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:134
+msgid "Allow tracking"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:139
+msgid "Do not allow tracking"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:150
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:151
+msgid "Getting Started"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:151
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:151
+msgid "our documentation"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:152
+msgid "Redux Generator"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:152
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:153
+msgid "Redux Extensions"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:153
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:153
+msgid "extensions directory"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:154
+msgid "Like Redux?"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:154
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:154
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:154
+msgid "donation"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:155
+msgid "Newsletter"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:155
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:156
+msgid "Email address"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:156
+msgid "Subscribe"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/tracking.php:165
+msgid "Close"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:124
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:78
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:90
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/color_rgba/field_color_rgba.php:77
+msgid "Transparent"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:277
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/media/field_media.php:112
+msgid "No media selected"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:314
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/media/field_media.php:154
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:123
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:185
+msgid "Upload"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:321
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/media/field_media.php:161
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:68
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:72
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:75
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:130
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:187
+#: ../inc/meta-box/inc/fields/file-input.php:42
+msgid "Remove"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/border/field_border.php:114
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:191
+msgid "All"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/border/field_border.php:127
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/border/field_border.php:134
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/border/field_border.php:141
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/border/field_border.php:148
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/border/field_border.php:162
+msgid "Border style"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:81
+msgid "To "
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:161
+msgid "Width"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:177
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:424
+#: ../admin/zilla-shortcodes/tinymce/config.php:227
+msgid "Height"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:188
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:189
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:245
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/group/field_group.php:79
+msgid "New "
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/group/field_group.php:122
+msgid "Delete"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/group/field_group.php:126
+msgid "Add"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:87
+msgid "Regular"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:91
+msgid "Hover"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:95
+msgid "Visited"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:99
+msgid "Active"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:60
+msgid "Add More"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/password/field_password.php:62
+#: ../inc/meta-box/demo/demo.php:112
+msgid "Password"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/password/field_password.php:63
+msgid "Username"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/select/field_select.php:82
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/select_image/field_select_image.php:62
+msgid "Select an item"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/select/field_select.php:126
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/select_image/field_select_image.php:136
+msgid "No items of this type were found."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:142
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:197
+#: ../admin/zilla-shortcodes/tinymce/config.php:16
+#: ../admin/zilla-shortcodes/tinymce/config.php:42
+#: ../admin/zilla-shortcodes/tinymce/config.php:43
+#: ../inc/custom-widgets/dribbble.php:46
+msgid "Title"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:146
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:201
+msgid "Description"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:150
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:204
+#: ../inc/meta-box/demo/demo.php:262
+msgid "URL"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:164
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:217
+msgid "Delete Slide"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:220
+msgid "Add Slide"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/switch/field_switch.php:42
+msgid "On"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/switch/field_switch.php:49
+msgid "Off"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:227
+msgid "Font Family"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:228
+msgid "Font family"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:253
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:254
+msgid "Backup Font Family"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:268
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:275
+msgid "Font style"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:269
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:275
+msgid "Style"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:305
+msgid "Font subsets"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:306
+msgid "Font Subsets"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:307
+msgid "Subsets"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:307
+msgid "Font script"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:324
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:325
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:326
+msgid "Text Align"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:347
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:348
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:349
+msgid "Text Transform"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:370
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:371
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:372
+msgid "Font Variant"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:390
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:391
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:392
+msgid "Text Decoration"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:414
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:415
+msgid "Font Size"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:415
+msgid "Size"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:423
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:424
+msgid "Line Height"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:432
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:433
+msgid "Word Spacing"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:441
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:442
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:460
+msgid "Font Color"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:462
+msgid "Font color"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:777
+msgid "Standard Fonts"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:875
+msgid "Google Webfonts"
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/validation/color/validation_color.php:15
+#: ../admin/ReduxFramework/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:14
+#: ../admin/ReduxFramework/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/validation/email/validation_email.php:16
+#: ../admin/ReduxFramework/ReduxCore/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/validation/numeric/validation_numeric.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: ../admin/ReduxFramework/ReduxCore/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:17
+msgid " Title"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:22
+msgid "Percent"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:23
+msgid " Percent (Example : 50 etc...)(Without %)"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:27
+msgid "Add Skills Bar Item"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:48
+#: ../admin/zilla-shortcodes/tinymce/config.php:49
+msgid "Button Link"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:53
+msgid "Add Button"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:69
+msgid "Background Color(RGB)"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:87
+#: ../admin/zilla-shortcodes/tinymce/config.php:88
+msgid "Space Type"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:97
+msgid "Top Space px or %"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:98
+#: ../admin/zilla-shortcodes/tinymce/config.php:104
+#: ../admin/zilla-shortcodes/tinymce/config.php:110
+#: ../admin/zilla-shortcodes/tinymce/config.php:116
+msgid "Example : 20px, 10%"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:103
+msgid "Right Space px or %"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:109
+msgid "Bottom Space px or %"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:115
+msgid "Left Space px or %"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:120
+msgid "Add Margin & Padding & Spaces"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:134
+msgid "Spoiler Text"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:135
+msgid "Please Paste your Spoiler Text"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:139
+msgid "Spoiler"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:154
+#: ../admin/zilla-shortcodes/tinymce/config.php:155
+#: ../admin/zilla-shortcodes/tinymce/config.php:188
+#: ../admin/zilla-shortcodes/tinymce/config.php:189
+msgid "title"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:159
+#: ../admin/zilla-shortcodes/tinymce/config.php:193
+msgid "Active / Passive"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:160
+#: ../admin/zilla-shortcodes/tinymce/config.php:194
+msgid "Active Tab select"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:169
+#: ../admin/zilla-shortcodes/tinymce/config.php:170
+#: ../admin/zilla-shortcodes/tinymce/config.php:203
+#: ../admin/zilla-shortcodes/tinymce/config.php:204
+msgid "content"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:174
+msgid "Insert Box"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:208
+msgid "Add Tabs"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:221
+msgid "Parallax Img URL"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:222
+msgid " Write image url"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:228
+msgid "Write parallax area height(Without px)"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:232
+msgid "Add Parallax Area"
+msgstr ""
+
+#: ../inc/metabox.php:55
+msgid "Team"
+msgstr ""
+
+#: ../inc/metabox.php:65
+msgid "Member Team Position"
+msgstr ""
+
+#: ../inc/metabox.php:67
+msgid "Enter member Team Position"
+msgstr ""
+
+#: ../inc/metabox.php:73
+msgid "Team Description"
+msgstr ""
+
+#: ../inc/metabox.php:75
+msgid "Enter member Description"
+msgstr ""
+
+#: ../inc/metabox.php:82
+msgid "Social Media (We suggest use max 4 social links)"
+msgstr ""
+
+#: ../inc/metabox.php:86
+msgid "E-Mail"
+msgstr ""
+
+#: ../inc/metabox.php:88
+msgid "Enter member E-Mail Address"
+msgstr ""
+
+#: ../inc/metabox.php:94
+msgid "Dribble"
+msgstr ""
+
+#: ../inc/metabox.php:96
+msgid ""
+"Enter member just Dribbble username http://dribbble.com/<b>2035themes</b>"
+msgstr ""
+
+#: ../inc/metabox.php:104
+msgid ""
+"Enter member just Facebook username http://facebook.com/<b>2035themes</b>"
+msgstr ""
+
+#: ../inc/metabox.php:112
+msgid "Enter member just Flickr username http://flickr.com/<b>2035themes</b>"
+msgstr ""
+
+#: ../inc/metabox.php:120
+msgid "Enter member just Github username http://github.com/<b>2035themes</b>"
+msgstr ""
+
+#: ../inc/metabox.php:128
+msgid ""
+"Enter member just Instagram username http://instagram.com/<b>2035themes</b>"
+msgstr ""
+
+#: ../inc/metabox.php:136
+msgid ""
+"Enter member just Linkedin username http://linkedin.com/in/<b>2035themes</b>"
+msgstr ""
+
+#: ../inc/metabox.php:145
+msgid ""
+"Enter member just Pinterest username http://pinterest.com/<b>2035themes</b>"
+msgstr ""
+
+#: ../inc/metabox.php:153
+msgid "Enter your tumblr blog name http://<b>2035themes</b>.tumblr.com"
+msgstr ""
+
+#: ../inc/metabox.php:161
+msgid "Enter member just Twitter username http://twitter.com/<b>2035themes</b>"
+msgstr ""
+
+#: ../inc/metabox.php:169
+msgid "Enter member just Youtube username http://youtube.com/<b>2035themes</b>"
+msgstr ""
+
+#: ../inc/metabox.php:176
+msgid "Add Custom Link - 1"
+msgstr ""
+
+#: ../inc/metabox.php:180 ../inc/metabox.php:207 ../inc/metabox.php:235
+msgid "Custom Link Name"
+msgstr ""
+
+#: ../inc/metabox.php:182 ../inc/metabox.php:209 ../inc/metabox.php:237
+msgid "Enter member custom Link Name Example : <b>Twitter</b>"
+msgstr ""
+
+#: ../inc/metabox.php:188 ../inc/metabox.php:215 ../inc/metabox.php:243
+msgid "Custom Link Url"
+msgstr ""
+
+#: ../inc/metabox.php:190 ../inc/metabox.php:217 ../inc/metabox.php:245
+msgid "Enter member custom Link Url <b>http://example.com/2035themes</b>"
+msgstr ""
+
+#: ../inc/metabox.php:196 ../inc/metabox.php:224 ../inc/metabox.php:252
+msgid "Custom Link Icon"
+msgstr ""
+
+#: ../inc/metabox.php:199 ../inc/metabox.php:227 ../inc/metabox.php:255
+msgid "Icon Must be 25x25px"
+msgstr ""
+
+#: ../inc/metabox.php:203
+msgid "Add Custom Link - 2"
+msgstr ""
+
+#: ../inc/metabox.php:231
+msgid "Add Custom Link - 3"
+msgstr ""
+
+#: ../inc/metabox.php:269
+msgid "Images"
+msgstr ""
+
+#: ../inc/metabox.php:278 ../inc/metabox.php:327
+msgid "Clients Name"
+msgstr ""
+
+#: ../inc/metabox.php:280 ../inc/metabox.php:329
+msgid "Enter your clients name"
+msgstr ""
+
+#: ../inc/metabox.php:286 ../inc/metabox.php:335
+msgid "Portfolio Description"
+msgstr ""
+
+#: ../inc/metabox.php:288 ../inc/metabox.php:337
+msgid "Enter portfolio Description"
+msgstr ""
+
+#: ../inc/metabox.php:294 ../inc/metabox.php:343
+msgid "Project Web site"
+msgstr ""
+
+#: ../inc/metabox.php:296 ../inc/metabox.php:345
+msgid "Enter your project web site"
+msgstr ""
+
+#: ../inc/metabox.php:302 ../inc/metabox.php:377
+msgid "Portfolio Gallery"
+msgstr ""
+
+#: ../inc/metabox.php:303 ../inc/metabox.php:378
+msgid "Max Photo Limit is <b>25</b>"
+msgstr ""
+
+#: ../inc/metabox.php:317
+msgid "Video"
+msgstr ""
+
+#: ../inc/metabox.php:351
+msgid "Video Embed Code"
+msgstr ""
+
+#: ../inc/metabox.php:353
+msgid "Enter your embed code"
+msgstr ""
+
+#: ../inc/metabox.php:371
+msgid "Blog Post Image Slides"
+msgstr ""
+
+#: ../inc/metabox.php:391
+msgid "Audio Settings"
+msgstr ""
+
+#: ../inc/metabox.php:398
+msgid "Audio Code"
+msgstr ""
+
+#: ../inc/metabox.php:400
+msgid "Enter your Audio URL(Oembed) or Embed Code."
+msgstr ""
+
+#: ../inc/metabox.php:407
+msgid "or Upload Your Audio File"
+msgstr ""
+
+#: ../inc/metabox.php:419
+msgid "Blog Video Settings"
+msgstr ""
+
+#: ../inc/metabox.php:425
+msgid "Embed Code"
+msgstr ""
+
+#: ../inc/metabox.php:427
+msgid "Insert paste embed code"
+msgstr ""
+
+#: ../inc/metabox.php:439
+msgid "Post Page Options"
+msgstr ""
+
+#: ../inc/metabox.php:443
+msgid "Page Type"
+msgstr ""
+
+#: ../inc/metabox.php:446
+msgid "Please select post page type"
+msgstr ""
+
+#: ../inc/metabox.php:449
+msgid "Modern"
+msgstr ""
+
+#: ../inc/metabox.php:450
+msgid "Classic"
+msgstr ""
+
+#: ../inc/metabox.php:454
+msgid "Select Post Page Type"
+msgstr ""
+
+#: ../inc/metabox.php:462
+msgid "Video Cover"
+msgstr ""
+
+#: ../inc/metabox.php:466
+msgid "Video Url"
+msgstr ""
+
+#: ../inc/metabox.php:468
+msgid ""
+"Please upload your .mp4 videos .webm and .ogg versions to same folder with "
+"same name!"
+msgstr ""
+
+#: ../inc/metabox.php:473
+msgid "Video Section Image (For Mobile)"
+msgstr ""
+
+#: ../inc/metabox.php:474
+msgid " * If you are using .mp4"
+msgstr ""
+
+#: ../inc/metabox.php:486
+msgid "Sidebar"
+msgstr ""
+
+#: ../inc/metabox.php:492
+msgid ""
+"Select Sidebar(Default sidebar selected. You can change it from theme "
+"options.)"
+msgstr ""
+
+#: ../inc/metabox.php:500
+msgid "Select Sidebar"
+msgstr ""
+
+#: ../inc/custom-sidebars/customsidebars.php:322
+#: ../inc/custom-sidebars/customsidebars.php:388
+#: ../inc/custom-sidebars/customsidebars.php:894
+msgid "You do not have permission to delete sidebars"
+msgstr ""
+
+#: ../inc/custom-sidebars/customsidebars.php:348
+#, php-format
+msgid "The sidebar \"%s\" has been deleted."
+msgstr ""
+
+#: ../inc/custom-sidebars/customsidebars.php:350
+#, php-format
+msgid "There was not any sidebar called \"%s\" and it could not been deleted."
+msgstr ""
+
+#: ../inc/custom-sidebars/customsidebars.php:425
+msgid "Custom sidebars"
+msgstr ""
+
+#: ../inc/custom-sidebars/customsidebars.php:514
+msgid "The custom sidebars settings has been updated successfully."
+msgstr ""
+
+#: ../inc/custom-sidebars/customsidebars.php:651
+msgid "The default sidebars have been updated successfully."
+msgstr ""
+
+#: ../inc/custom-sidebars/customsidebars.php:702
+msgid "You have to fill all the fields to create a new sidebar."
+msgstr ""
+
+#: ../inc/custom-sidebars/customsidebars.php:726
+#: ../inc/custom-sidebars/customsidebars.php:749
+#: ../inc/custom-sidebars/customsidebars.php:1020
+msgid "The sidebar has been created successfully."
+msgstr ""
+
+#: ../inc/custom-sidebars/customsidebars.php:731
+msgid ""
+"There is already a sidebar registered with that name, please choose a "
+"different one."
+msgstr ""
+
+#: ../inc/custom-sidebars/customsidebars.php:771
+#: ../inc/custom-sidebars/customsidebars.php:774
+#: ../inc/custom-sidebars/customsidebars.php:968
+msgid "The operation is not secure and it cannot be completed."
+msgstr ""
+
+#: ../inc/custom-sidebars/customsidebars.php:797
+#, php-format
+msgid "The sidebar \"%s\" has been updated successfully."
+msgstr ""
+
+#: ../inc/custom-sidebars/customsidebars.php:925
+msgid "The Custom Sidebars data has been removed successfully,"
+msgstr ""
+
+#: ../inc/custom-sidebars/customsidebars.php:1000
+msgid "There has been an error storing the sidebars. Please, try again."
+msgstr ""
+
+#: ../inc/custom-sidebars/customsidebars.php:1062
+msgid "Unknown sidebar."
+msgstr ""
+
+#: ../inc/custom-sidebars/views/defaults/archive_author.php:16
+#: ../inc/custom-sidebars/views/defaults/archive_blog.php:15
+#: ../inc/custom-sidebars/views/defaults/archive_category.php:21
+#: ../inc/custom-sidebars/views/defaults/archive_date.php:15
+#: ../inc/custom-sidebars/views/defaults/archive_posttype.php:23
+#: ../inc/custom-sidebars/views/defaults/archive_search.php:15
+#: ../inc/custom-sidebars/views/defaults/archive_tag.php:15
+#: ../inc/custom-sidebars/views/defaults/single_category.php:21
+#: ../inc/custom-sidebars/views/defaults/single_posttype.php:21
+#, php-format
+msgid "<- Set %s here."
+msgstr ""
+
+#: ../inc/custom-widgets/audio-player.php:13
+#: ../inc/custom-widgets/audio-player.php:102
+msgid "Audio Player"
+msgstr ""
+
+#: ../inc/custom-widgets/audio-player.php:14
+msgid "[ CUSTOM ] Audio Player"
+msgstr ""
+
+#: ../inc/custom-widgets/audio-player.php:110
+#: ../inc/custom-widgets/most-popular.php:83
+#: ../inc/custom-widgets/recent-comments.php:79
+#: ../inc/custom-widgets/social-links.php:119
+#: ../inc/custom-widgets/twitter.php:197
+msgid "Title:"
+msgstr ""
+
+#: ../inc/custom-widgets/audio-player.php:115
+msgid "Music Url:"
+msgstr ""
+
+#: ../inc/custom-widgets/audio-player.php:120
+msgid "Player Background Image : (310x210px)"
+msgstr ""
+
+#: ../inc/custom-widgets/author.php:35
+msgid "Currently"
+msgstr ""
+
+#: ../inc/custom-widgets/author.php:40
+msgid "Avaible for Freelance"
+msgstr ""
+
+#: ../inc/custom-widgets/author.php:100
+msgid "Author Name:"
+msgstr ""
+
+#: ../inc/custom-widgets/author.php:105
+msgid "Author Url:"
+msgstr ""
+
+#: ../inc/custom-widgets/author.php:110
+msgid "Description:"
+msgstr ""
+
+#: ../inc/custom-widgets/author.php:115
+msgid "Job Title & Work:"
+msgstr ""
+
+#: ../inc/custom-widgets/author.php:120
+msgid "Live in:"
+msgstr ""
+
+#: ../inc/custom-widgets/author.php:125
+msgid "Avaible For Freelance?"
+msgstr ""
+
+#: ../inc/custom-widgets/dribbble.php:20 ../inc/custom-widgets/dribbble.php:24
+msgid "[ CUSTOM ] Dribbble Designs "
+msgstr ""
+
+#: ../inc/custom-widgets/dribbble.php:51
+msgid "Dribbble Username"
+msgstr ""
+
+#: ../inc/custom-widgets/dribbble.php:56
+msgid "Number of Photos"
+msgstr ""
+
+#: ../inc/custom-widgets/dribbble.php:83
+msgid "Oppss. Houston, We've Got a Problem."
+msgstr ""
+
+#: ../inc/custom-widgets/google-plus-badge-widget.php:14
+msgid "Adds a beautiful Google Plus badge widget."
+msgstr ""
+
+#: ../inc/custom-widgets/google-plus-badge-widget.php:18
+msgid "[ CUSTOM ] Google+ Widget "
+msgstr ""
+
+#: ../inc/custom-widgets/google-plus-badge-widget.php:72
+msgid "Find us on Google Plus"
+msgstr ""
+
+#: ../inc/custom-widgets/instagram.php:45
+msgid "Displays your latest Instagram photos"
+msgstr ""
+
+#: ../inc/custom-widgets/instagram.php:46
+msgid "[ CUSTOM ] Instagram "
+msgstr ""
+
+#: ../inc/custom-widgets/instagram.php:97
+msgid "Follow Us"
+msgstr ""
+
+#: ../inc/custom-widgets/instagram.php:138
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#: ../inc/custom-widgets/instagram.php:141
+msgid "Instagram did not return a 200."
+msgstr ""
+
+#: ../inc/custom-widgets/instagram.php:148
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#: ../inc/custom-widgets/most-popular.php:45
+msgid "Views"
+msgstr ""
+
+#: ../inc/custom-widgets/most-popular.php:88
+msgid "Number of posts/pages to show:"
+msgstr ""
+
+#: ../inc/custom-widgets/most-popular.php:93
+msgid "Exclude IDs of posts/pages (separate by commas):"
+msgstr ""
+
+#: ../inc/custom-widgets/most-popular.php:98
+msgid "Show Views Number?"
+msgstr ""
+
+#: ../inc/custom-widgets/most-popular.php:107
+msgid "Reset Statics : "
+msgstr ""
+
+#: ../inc/custom-widgets/recent-comments.php:14
+msgid "Recent comments"
+msgstr ""
+
+#: ../inc/custom-widgets/recent-comments.php:15
+msgid "[ CUSTOM ] Recent Comments  "
+msgstr ""
+
+#: ../inc/custom-widgets/recent-comments.php:72
+msgid "Recent Comments"
+msgstr ""
+
+#: ../inc/custom-widgets/recent-comments.php:83
+msgid "Number Of Comments:"
+msgstr ""
+
+#: ../inc/custom-widgets/recent-posts.php:6
+msgid "The most recent posts"
+msgstr ""
+
+#: ../inc/custom-widgets/recent-posts.php:7
+#: ../inc/custom-widgets/recent-posts.php:26
+msgid "[ CUSTOM ] Recent Posts  "
+msgstr ""
+
+#: ../inc/custom-widgets/social-links.php:12
+msgid "Social Links"
+msgstr ""
+
+#: ../inc/custom-widgets/social-links.php:13
+msgid "[ CUSTOM ] Social Links "
+msgstr ""
+
+#: ../inc/custom-widgets/social-links.php:95
+msgid "Socials Links"
+msgstr ""
+
+#: ../inc/custom-widgets/social-links.php:124
+msgid "Behance Url:"
+msgstr ""
+
+#: ../inc/custom-widgets/social-links.php:129
+msgid "Codepen Url:"
+msgstr ""
+
+#: ../inc/custom-widgets/social-links.php:134
+msgid "Deviantart Url:"
+msgstr ""
+
+#: ../inc/custom-widgets/social-links.php:139
+msgid "Dribbble Url:"
+msgstr ""
+
+#: ../inc/custom-widgets/social-links.php:144
+msgid "Facebook Url:"
+msgstr ""
+
+#: ../inc/custom-widgets/social-links.php:149
+msgid "Flickr Url:"
+msgstr ""
+
+#: ../inc/custom-widgets/social-links.php:154
+msgid "Foursquare Url:"
+msgstr ""
+
+#: ../inc/custom-widgets/social-links.php:159
+msgid "Github Url:"
+msgstr ""
+
+#: ../inc/custom-widgets/social-links.php:164
+msgid "Google Plus Url:"
+msgstr ""
+
+#: ../inc/custom-widgets/social-links.php:169
+msgid "Instagram Url:"
+msgstr ""
+
+#: ../inc/custom-widgets/social-links.php:174
+msgid "Linkedin Url:"
+msgstr ""
+
+#: ../inc/custom-widgets/social-links.php:179
+msgid "Pinterest Url:"
+msgstr ""
+
+#: ../inc/custom-widgets/social-links.php:184
+msgid "Soundcloud Url:"
+msgstr ""
+
+#: ../inc/custom-widgets/social-links.php:189
+msgid "Tumblr Url:"
+msgstr ""
+
+#: ../inc/custom-widgets/social-links.php:194
+msgid "Twitter Url:"
+msgstr ""
+
+#: ../inc/custom-widgets/social-links.php:199
+msgid "Vimeo Url:"
+msgstr ""
+
+#: ../inc/custom-widgets/social-links.php:204
+msgid "Vine Url:"
+msgstr ""
+
+#: ../inc/custom-widgets/social-links.php:209
+msgid "Youtube Url:"
+msgstr ""
+
+#: ../inc/custom-widgets/tabs.php:16
+msgid ""
+"Display popular posts, recent posts, comments, and tags in tabbed format."
+msgstr ""
+
+#: ../inc/custom-widgets/tabs.php:18
+msgid "[ CUSTOM ] Tab Widget "
+msgstr ""
+
+#: ../inc/custom-widgets/tabs.php:160
+msgid "Popular"
+msgstr ""
+
+#: ../inc/custom-widgets/tabs.php:161
+msgid "Recent"
+msgstr ""
+
+#: ../inc/custom-widgets/tabs.php:162
+msgid "Comments"
+msgstr ""
+
+#: ../inc/custom-widgets/twitter.php:16
+msgid "[ CUSTOM ] Latest Tweets "
+msgstr ""
+
+#: ../inc/custom-widgets/twitter.php:202
+msgid ""
+"Twitter Application API Key: <a href=\"https://apps.twitter.com/\">apps."
+"twitter.com</a> "
+msgstr ""
+
+#: ../inc/custom-widgets/twitter.php:207
+msgid "Twitter Application API Secret:"
+msgstr ""
+
+#: ../inc/custom-widgets/twitter.php:212
+msgid "Account Access Token:"
+msgstr ""
+
+#: ../inc/custom-widgets/twitter.php:217
+msgid "Account Access Token Secret   :"
+msgstr ""
+
+#: ../inc/custom-widgets/twitter.php:222
+msgid "Cache Duration:"
+msgstr ""
+
+#: ../inc/custom-widgets/twitter.php:227
+msgid "Twitter Feed Screen Name*:"
+msgstr ""
+
+#: ../inc/custom-widgets/twitter.php:232
+msgid "Tweet Numbers to show:"
+msgstr ""
+
+#: ../inc/meta-box/demo/all-custom-post-types.php:20
+msgid "Personal Information"
+msgstr ""
+
+#: ../inc/meta-box/demo/all-custom-post-types.php:25
+msgid "Full name"
+msgstr ""
+
+#: ../inc/meta-box/demo/better-include.php:16
+#: ../inc/meta-box/demo/include-by-ID-or-page-template.php:8
+msgid "Meta Box Title"
+msgstr ""
+
+#: ../inc/meta-box/demo/better-include.php:19
+#: ../inc/meta-box/demo/include-by-ID-or-page-template.php:14
+msgid "Your images"
+msgstr ""
+
+#: ../inc/meta-box/demo/date-time-js-options.php:11
+msgid "Date Time Picker With JS Options"
+msgstr ""
+
+#: ../inc/meta-box/demo/date-time-js-options.php:15
+msgid "Date"
+msgstr ""
+
+#: ../inc/meta-box/demo/date-time-js-options.php:21
+#: ../inc/meta-box/demo/demo.php:188
+msgid "(yyyy-mm-dd)"
+msgstr "(dd-mm-yyyy)"
+
+#: ../inc/meta-box/demo/date-time-js-options.php:23
+msgid "Select Date"
+msgstr ""
+
+#: ../inc/meta-box/demo/date-time-js-options.php:24
+#: ../inc/meta-box/demo/demo.php:189
+msgid "yy-mm-dd"
+msgstr "dd-mm-yy"
+
+#: ../inc/meta-box/demo/date-time-js-options.php:30
+msgid "Datetime"
+msgstr ""
+
+#: ../inc/meta-box/demo/date-time-js-options.php:41
+msgid "Time"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:38
+msgid "Standard Fields"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:57
+msgid "Text"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:61
+msgid "Text description"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:64
+msgid "Default text value"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:70
+msgid "Checkbox"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:78
+msgid "Radio"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:84 ../inc/meta-box/demo/demo.php:95
+#: ../inc/meta-box/demo/demo.php:237 ../inc/meta-box/demo/demo.php:282
+msgid "Label1"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:85 ../inc/meta-box/demo/demo.php:96
+#: ../inc/meta-box/demo/demo.php:238 ../inc/meta-box/demo/demo.php:283
+msgid "Label2"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:90 ../inc/meta-box/demo/demo.php:277
+#: ../inc/meta-box/inc/fields/file-input.php:40
+msgid "Select"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:101 ../inc/meta-box/demo/demo.php:288
+msgid "Select an Item"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:108
+msgid "Hidden value"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:118
+msgid "Textarea"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:119
+msgid "Textarea description"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:136
+msgid "Password is required"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:137
+msgid "Password must be at least 7 characters"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:145
+msgid "Advanced Fields"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:151
+msgid "Heading"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:156 ../inc/meta-box/demo/slider.php:9
+msgid "Slider"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:161 ../inc/meta-box/demo/slider.php:14
+msgid "$"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:162 ../inc/meta-box/demo/slider.php:15
+msgid " USD"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:173
+msgid "Number"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:182
+msgid "Date picker"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:197
+msgid "Datetime picker"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:211
+msgid "Time picker"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:226
+msgid "Color picker"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:232
+msgid "Checkbox list"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:243
+msgid "Email"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:245
+msgid "Email description"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:251
+msgid "Range"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:253
+msgid "Range description"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:264
+msgid "URL description"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:270
+msgid "oEmbed"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:272
+msgid "oEmbed description"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:292
+msgid "Taxonomy"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:306
+msgid "Posts (Pages)"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:322
+msgid "WYSIWYG / Rich Text Editor"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:327
+msgid "WYSIWYG default value"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:343 ../inc/meta-box/demo/force-delete.php:15
+msgid "File Upload"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:349
+msgid "File Advanced Upload"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:357 ../inc/meta-box/demo/force-delete.php:22
+msgid "Image Upload"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:363 ../inc/meta-box/demo/force-delete.php:28
+msgid "Thickbox Image Upload"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:369 ../inc/meta-box/demo/force-delete.php:35
+msgid "Plupload Image Upload"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:376
+msgid "Image Advanced Upload"
+msgstr ""
+
+#: ../inc/meta-box/demo/force-delete.php:11
+msgid "Test Meta Box"
+msgstr ""
+
+#: ../inc/meta-box/demo/image-select.php:6
+msgid "Image Select Demo"
+msgstr ""
+
+#: ../inc/meta-box/demo/image-select.php:10
+msgid "Layout"
+msgstr ""
+
+#: ../inc/meta-box/demo/map.php:9
+msgid "Google Map"
+msgstr ""
+
+#: ../inc/meta-box/demo/map.php:13
+msgid "Address"
+msgstr ""
+
+#: ../inc/meta-box/demo/map.php:15
+msgid "Hanoi, Vietnam"
+msgstr ""
+
+#: ../inc/meta-box/demo/map.php:19
+msgid "Location"
+msgstr ""
+
+#: ../inc/meta-box/demo/oembed.php:6
+msgid "oEmbed Demo"
+msgstr ""
+
+#: ../inc/meta-box/demo/oembed.php:10
+msgid "oEmbed(s)"
+msgstr ""
+
+#: ../inc/meta-box/demo/slider.php:6
+msgid "Slider Demo"
+msgstr ""
+
+#: ../inc/meta-box/demo/url.php:6
+msgid "URL Demo"
+msgstr ""
+
+#: ../inc/meta-box/demo/url.php:10
+msgid "URL(s)"
+msgstr ""
+
+#: ../inc/meta-box/inc/field.php:185
+msgid "+"
+msgstr ""
+
+#: ../inc/meta-box/inc/field.php:202
+msgid "&#8211;"
+msgstr ""
+
+#: ../inc/meta-box/inc/meta-box.php:241
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: ../inc/meta-box/inc/fields/button.php:35
+msgid "Click me"
+msgstr ""
+
+#: ../inc/meta-box/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: ../inc/meta-box/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr ""
+
+#: ../inc/meta-box/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: ../inc/meta-box/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: ../inc/meta-box/inc/fields/file.php:70
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: ../inc/meta-box/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr ""
+
+#: ../inc/meta-box/inc/fields/map.php:48
+msgid "Find Address"
+msgstr ""
+
+#: ../inc/meta-box/inc/fields/oembed.php:54
+msgid "Embed HTML not available."
+msgstr ""
+
+#: ../inc/meta-box/inc/fields/oembed.php:76
+msgid "Preview"
+msgstr ""
+
+#: ../inc/meta-box/inc/fields/post.php:52
+msgid "Post"
+msgstr ""
+
+#: ../inc/meta-box/inc/fields/post.php:66
+#: ../inc/meta-box/inc/fields/taxonomy.php:40
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: ../inc/post-types/content-aside.php:28
+msgid "Aside Post Format"
+msgstr ""
+
+#: ../inc/post-types/content-audio.php:66
+msgid "Audio Post Format"
+msgstr ""
+
+#: ../inc/post-types/content-chat.php:28
+msgid "Chat Post Format"
+msgstr ""
+
+#: ../inc/post-types/content-gallery.php:28
+msgid "Gallery Post Format"
+msgstr ""
+
+#: ../inc/post-types/content-image.php:28
+msgid "Image Post Format"
+msgstr ""
+
+#: ../inc/post-types/content-link.php:20
+#: ../inc/post-types/content-quote.php:19
+msgid "Read More"
+msgstr ""
+
+#: ../inc/post-types/content-link.php:47
+msgid "Link Post Format"
+msgstr ""
+
+#: ../inc/post-types/content-quote.php:45
+msgid "Quote Post Format"
+msgstr ""
+
+#: ../inc/post-types/content-status.php:28
+msgid "Status Post Format"
+msgstr ""
+
+#: ../inc/post-types/content-video.php:28
+msgid "Video Post Format"
+msgstr ""
+
+#: ../inc/post-types/content.php:28
+msgid "Standart Post Format"
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:155
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:156
+msgid "Install Plugins"
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:157
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:169
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:171
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:1840
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:172
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:1538
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:1950
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:1950
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/tgm_plugin_activation/class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr ""
